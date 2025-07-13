@@ -17,7 +17,6 @@ body {
   box-sizing: border-box;
 }
 
-/* Navbar container */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -29,7 +28,6 @@ body {
 
 }
 
-/* Logo */
 .navbar .logo {
   color: white;
   font-size: 24px;
@@ -37,7 +35,6 @@ body {
   font-family: Arial, sans-serif;
 }
 
-/* Navigation links */
 .navbar .nav-links {
   display: flex;
   gap: 25px;
